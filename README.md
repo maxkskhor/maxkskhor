@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maxkskhor
-- 👀 I’m interested in mathematics, statistics and programming in general.
-- 🌱 I’m currently practising my LeetCode.
+- 👋 Hi, I’m Max Khor @maxkskhor
+- :airplane: Grew up in a small town in Malaysia. Flew 10,576 km to the UK for my undergraduate and master's degree (BA and MMath) at the University of Cambridge
+- 👀 Interested in mathematics, statistics and programming in general
 - 📫 How to reach me: ksk42@cantab.ac.uk
 
 <!---
