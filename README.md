@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Max Khor @maxkskhor
+- Welcome!
 
 <!---
 maxkskhor/maxkskhor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
