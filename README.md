@@ -14,6 +14,4 @@ reliable in production.
   metrics, tool-call traces
 - Closed-loop prompt optimisation against real user feedback
 
-**Stack:** Python · AWS Bedrock
-
 📧 maxkskhor@gmail.com · [LinkedIn](https://linkedin.com/in/max-khor/)
