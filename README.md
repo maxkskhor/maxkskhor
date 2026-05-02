@@ -1,7 +1,19 @@
-👋 Hi, I’m Max Khor @maxkskhor
-Welcome!
+## Max Khor
 
-<!---
-maxkskhor/maxkskhor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build the harness layer of LLM agent systems — the loop, tool dispatch,
+context management, observability, and optimisation that make agents
+reliable in production.
+
+**What I work on**
+
+- ReAct orchestration with native tool dispatch — error recovery as a loop
+  property, not bolted onto a frozen plan
+- Context engineering: conversation compaction, artefact caching,
+  hybrid retrieval
+- Observability as a first-class concern: per-step latency, token/cache
+  metrics, tool-call traces
+- Closed-loop prompt optimisation against real user feedback
+
+**Stack:** Python · AWS Bedrock
+
+📧 maxkskhor@gmail.com · [LinkedIn](https://linkedin.com/in/max-khor/)
