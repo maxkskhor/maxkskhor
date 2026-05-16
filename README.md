@@ -1,17 +1,5 @@
 ## Max Khor
 
-I build the harness layer of LLM agent systems — the loop, tool dispatch,
-context management, observability, and optimisation that make agents
-reliable in production.
-
-**What I work on**
-
-- ReAct orchestration with native tool dispatch — error recovery as a loop
-  property, not bolted onto a frozen plan
-- Context engineering: conversation compaction, artefact caching,
-  hybrid retrieval
-- Observability as a first-class concern: per-step latency, token/cache
-  metrics, tool-call traces
-- Closed-loop prompt optimisation against real user feedback
+I'm a mathematician turned AI engineer, based in London. My work spans the infrastructure layer of LLM systems — loops, tool dispatch, context handling, observability — and quantitative modelling: anomaly detection and signal generation. I studied mathematics at Cambridge.
 
 📧 maxkskhor@gmail.com · [LinkedIn](https://linkedin.com/in/max-khor/)
